@@ -23,6 +23,7 @@ typedef struct
 #include <pcl/surface/gp3.h>
 #include <pcl/surface/mls.h>
 #include <flann/flann.hpp>
+#include <pcl/point_types.h>
 
 //
 typedef pcl::PointCloud<pcl::PointXYZ>::Ptr PointCloudPtr;
